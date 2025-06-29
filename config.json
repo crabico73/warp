@@ -1,0 +1,5 @@
+{
+  "pinecone_api_key": "YOUR_API_KEY",
+  "environment": "us-west1-gcp",
+  "model_name": "gpt-4"
+}
