@@ -1,5 +1,5 @@
 {
-  "pinecone_api_key": "YOUR_API_KEY",
+  "pinecone_api_key": "pcsk_2daqMW_M6Bsb2HjSUmDCBwawehSmpYcpr3QHihtUDGKPnbGsHWATJGM1oqhwbLtbriA1QV",
   "environment": "us-west1-gcp",
   "model_name": "gpt-4"
 }
