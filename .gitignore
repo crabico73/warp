@@ -1,0 +1,15 @@
+# Warp application files
+conpty.dll
+crashpad_handler.exe
+dxcompiler.dll
+dxil.dll
+icon.ico
+msvcp140.dll
+pwsh.ps1
+unins000.dat
+unins000.exe
+vcruntime140.dll
+vcruntime140_1.dll
+warp.exe
+x64/
+
